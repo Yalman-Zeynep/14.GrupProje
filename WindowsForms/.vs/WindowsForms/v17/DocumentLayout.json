@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|c:\\users\\lenovo\\desktop\\windowsforms\\tokenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:tokenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\tokenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:tokenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\tokenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:tokenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|C:\\Users\\Lenovo\\Desktop\\WindowsForms\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C48908-E552-4707-AF2B-6E30C7510DF6}|WindowsForms.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:26:08.743Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:41:46.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.Designer.cs",
+              "RelativeDocumentMoniker": "TokenForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.Designer.cs",
+              "RelativeToolTip": "TokenForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:42:20.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.cs",
+              "RelativeDocumentMoniker": "TokenForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.cs",
+              "RelativeToolTip": "TokenForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:31:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:12:53.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\JwtHelper.cs",
+              "RelativeToolTip": "JwtHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:22:01.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.cs",
+              "RelativeDocumentMoniker": "TokenForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\TokenForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TokenForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:31:16.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WindowsForms\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:13:46.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
